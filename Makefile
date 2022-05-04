@@ -12,7 +12,7 @@ SRCS = so_long.c \
 		utils/get_next_line_utils.c
 
 
-FLAGS = -Werror -Wextra -Wall -g
+FLAGS = -Werror -Wextra -Wall
 
 all: $(NAME)
 
